@@ -1,0 +1,494 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The natures, uses, &amp; doses of several approved and experienced medicines, faithfully prepared by John Spire, junr. medicinæ professor. To which is added, a catalogue of various chymical preparations, by him always ready prepared</title>
+            <author>Spire, John, apothecary.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 43 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61132</idno>
+            <idno type="STC">Wing S4988</idno>
+            <idno type="STC">ESTC R219129</idno>
+            <idno type="EEBO-CITATION">99830649</idno>
+            <idno type="PROQUEST">99830649</idno>
+            <idno type="VID">35102</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61132)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35102)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2079:07)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The natures, uses, &amp; doses of several approved and experienced medicines, faithfully prepared by John Spire, junr. medicinæ professor. To which is added, a catalogue of various chymical preparations, by him always ready prepared</title>
+                  <author>Spire, John, apothecary.</author>
+               </titleStmt>
+               <extent>[2], 22 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Benja. Harris, senr. in Great East-cheap, for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Medicine --  Formulae, receipts, prescriptions --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Amanda Flynn</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Amanda Flynn</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35102:1"/>
+            <pb facs="tcp:35102:1" rendition="simple:additions"/>
+            <p>THE Natures, Uſes, &amp; Doſes Of Several APPROVED and EXPERIENCED Medicines, Faithfully PREPARED By JOHN SPIRE, jun<hi rend="sup">r</hi>. Medicinae Profeſſor.</p>
+            <p>To which is Added, A CATALOGUE of Various Chymical PREPARATIONS, By him always ready Prepared.</p>
+            <p>LONDON, Printed by Benja. Harris, Senr. in Great East-cheap, for the AUTHOR, 1698.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:35102:2"/>
+            <head>TO THE Courteous READER.</head>
+            <p>HAving, thro' the Bleſſing of God (from whom alone cometh every good and perfect Gift) upon my Endeavours, obtained (thro' much Labour, great Study, and Experience) the Knowledge of ſe<g ref="char:EOLhyphen"/>veral <hi>Specifick Medicines,</hi> (or <hi>Arcanum's)</hi> effe<g ref="char:EOLhyphen"/>ctual for the Extirpating, and Rooting out the Ori<g ref="char:EOLhyphen"/>ginal Cauſes of Tedious and Chronical Diſtempers: Being Friendly to Nature, pacifying the inraged <hi>Ar<g ref="char:EOLhyphen"/>cheus;</hi> thereby Conquering the Fury of most Diſeaſes incident to Human Bodies.</p>
+            <p>I might have Quoted the Names and Places of divers Perſons, that have been Cured by theſe Medi<g ref="char:EOLhyphen"/>cines herein mentioned, but ſhall Deſist, and leave ev'ry Prudent Experiencer to ſpeak of them as they find: (only Deſiring they would Communicate their Vertues to their Neighbours) Being Publiſhed for the Ne<g ref="char:EOLhyphen"/>ceſſities of ſuch, who many times Languiſh under the Burden of Diſeaſes, for want of true Medicines.</p>
+            <p>So to that Eternal, Inviſible, and Incomprehenſible Word of GOD, by which, All Things were Made, do I Recommend every One, Wiſhing them Health and Comfort here, and Eternal Happineſs hereafter; and Subſcribe my Self, <hi>Thine in all Real Service,</hi>
+            </p>
+            <closer>
+               <signed>J. S.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sale_catalogue__medicines">
+            <pb n="1" facs="tcp:35102:2"/>
+            <head>THE Natures, Uſes, &amp; Doſes Of Several MEDICINES,</head>
+            <div n="1" type="medicine">
+               <head>I. <hi>Aqua-Vitae Magiſtralis:</hi> Or, <hi>Our Magiſterial Water.</hi>
+               </head>
+               <p>IT is an abſterſive Medicine, of a powerful Nature, cleanſing and ſtrengthning the Sto<g ref="char:EOLhyphen"/>mach, effectual in opening Obſtructions: it is Sudorefick, and Diuretick: 'tis very good in Fevers, eſpecially in the Putrid; in Palſies, Epilep<g ref="char:EOLhyphen"/>ſies, and the <hi>Plague;</hi> reſiſting Corruption; in Apo<g ref="char:EOLhyphen"/>plexies, Lethargy, and Stupification of the Spirits, ſtoppages in the Breaſt, Surfeits, Rheumatiſm, Stone and Strangury, Chollick, Oppreſſion of Wind, Loathing of the Food, Pleuriſies (without Blood-letting;) and for Women with Child, and in their Travail, as alſo after they be Delivered. This Medicine hath prov'd it ſelf a ſucceſsful Re<g ref="char:EOLhyphen"/>medy in many of the afore-ſaid Maladies; as ma<g ref="char:EOLhyphen"/>ny in ſeveral parts of <hi>England</hi> can Teſtify, to their great Satisfaction.</p>
+               <div type="dose">
+                  <pb n="2" facs="tcp:35102:3"/>
+                  <head>It's <g ref="char:V">Ʋ</g>ſe and Doſe.</head>
+                  <p>THe ordinary Doſe to Man or Woman, (in any of the aforeſaid Diſeaſes) is generally 2 or 3 Spoonfuls, [obſerving for thoſe that cannot bear with the ſtrength thereof, they may allay it with 1 or 2 ſpoonfuls of Balm or Mint Water, or white Wine, or clean Spring Water] in all Diſtempers that call for ſpeedy relief, as Surfeits, <hi>&amp;c.</hi> take it 2 or 3 times in an hour: for the Stone, take it every half hour for 2 hours ſpace, then reſt 2 or 3 hours, and repeat it as before, drinking ſometimes a little Chamomile poſſet-drink, <hi>i. e.</hi> the Flowers boyled. In Pleuriſies, take every half hour till Relief be found (obſerving to apply ſome hot Chamomile fryed, or heated, being firſt ſprinkled with a little Vinegar, to the ſide) taking once in 24 hours, a doſe of the Balſamick Pill, in the method hereafter preſcribed: For Women, when they go with Child, take it in the morning, and 2 hours after Dinner, for a Week together, then reſt about 4 days, and repeat as before; in their Travail, the pains being ſlow, give 2 ſpoonfuls 3 times in an hour; and for after-pains, give it often. For Chil<g ref="char:EOLhyphen"/>dren that are troubled with Wind, mix a little of it with Fennel, or Spere-mint water ſweetned, that it may but juſt taſt of it, and then give a ſpoon<g ref="char:EOLhyphen"/>ful as often as need requires. In Windineſs of the Stomach, which cauſeth Vapours in the Head, take 2 or 3 times in a Day. In Apoplexies and Le<g ref="char:EOLhyphen"/>thargies, take it frequently, and apply a linnen Cloth dipt in the ſame to the Temples. In the
+<pb n="3" facs="tcp:35102:3"/> Gout pains, apply the ſame mixed with equal quan<g ref="char:EOLhyphen"/>tity of ſtrong Brandy, often to the place afflicted, and take of it about 4 times in a Day as directed.</p>
+                  <p>☞ <hi>Obſerve.</hi> If in any of the aforeſaid Diſeaſes, the Medicine provokes Vomiting, repeat the Doſe immediately, and ſo take it again and again, till the laſt Doſe ſtayes; never be Daunted, but go on with it, always minding to take this Medicine in the beginning of any Sickneſs, in order to diſperſe the ſame. <hi>Price Three Shillings the Pint Bottle.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="2" type="medicine">
+               <head>II. <hi>Pilulae Samech:</hi> Or, <hi>The Friendly Balſamick Pill.</hi>
+               </head>
+               <p>WHoſe Nature and Virtues are ſuch, that it Operates as Nature would have it, in or<g ref="char:EOLhyphen"/>der to cleanſe the Body from the root of Diſeaſes, <hi>viz.</hi> by Sweat, Urine and Stool, ſometimes by Vomit, and other times by inſenſible Tranſpiration, according as the Occaſional Matter wants to be carried off. 'Tis a moſt noble Preparation, being exalted to the true Intention of Healing: For ſuch is it's Property, that it firſt works as an <hi>Anodine,</hi> and allays the inraged Archeus, and then carries off the poyſonous offending matter by Stool, or ſome other gentle way. It totally corrects and deſtroys the virulency of vegetable Poyſons, either out, or in the Body; and being taken as a Corre<g ref="char:EOLhyphen"/>ctor, ſhows it's effects: For, if you are aſſaulted with the violent working of any Potion vomative or purgative, 'twill ſo take it off, as to ſettle Na<g ref="char:EOLhyphen"/>ture in her due Decorum: ſuch is the Nature,
+<pb n="4" facs="tcp:35102:4"/> Force, and Operation of this Pill, as a Corrector.</p>
+               <p>It's Prevalency will be ſeen in helping Nature to diſcharge and expel thoſe things that offend her, for if you take a Pill, drinking a Cup of mull'd Sack after it, and ſweat in Bed, 'twill immediately diſperſe it ſelf thro' the Body, fortifying the Foun<g ref="char:EOLhyphen"/>tain of Life, and ſo expels Poyſon in any part of the Body.—'Tis prevalent in moſt Diſeaſes inci<g ref="char:EOLhyphen"/>dent to the body, as hath by long Experience been confirmed: For by it's Abſterſive Nature, and Pa<g ref="char:EOLhyphen"/>cative Virtue, it pacifies the inraged Archeus, and by this means inſinuates it ſelf into the languiſhing Fountain of Life, and per orms much to the Pati<g ref="char:EOLhyphen"/>ents content and ſatisfaction; eſpecially in Colds, Coughs, Diſenteria, or Fluxes of any ſort, or Gri<g ref="char:EOLhyphen"/>pings in the Bowels, Fevers or Agues, as the Ter<g ref="char:EOLhyphen"/>tian, (Quartan) and Quotidian, Plurifies, Calentures, Headach, the diſtilling of Humors called <hi>Catarrhus,</hi> which deſtroyeth the Lungs; alſo in pains of the Breſt, tremblings of the Heart, giving the Blood a Fermentation, and cleanſing it from Superflui<g ref="char:EOLhyphen"/>ties; and therefore prevalent in the Dropſie, Ana<g ref="char:EOLhyphen"/>ſarca, Aſcites, Timpanites, Inflammation of the Reins, difficulty of Piſſing: It bringeth forth the ſmall-Pox and Meaſles. 'Tis a very general Re<g ref="char:EOLhyphen"/>medy, curing many Diſeaſes, and not hurtful in any, <hi>&amp;c.</hi> In pains of the Limbs, Scurvy, Gout and inveterate Gonorrhaea's, and ſeveral other Diſeaſes, as may be ſeen by</p>
+               <div type="dose">
+                  <pb n="5" facs="tcp:35102:4"/>
+                  <head>It's Doſe and Application.</head>
+                  <p>FOr any of the afore-named Diſeaſes, you muſt take the bigneſs of a grey Fea, and drink it down with a Glaſs of mull'd Sack, or hot Mace-Ale, and being in Bed, diſpoſe your ſelf to Sweat: This method does very well in the King's-Evil, Meaſles, Small-Pox, or Swine-Pox, to bring the Venomn from the Heart. For Agues, take a Pill the bigneſs of a large grey Pea, and drink it with 2 Ounces of Cinamon Water, and as much Peper as will lye upon a Groat, an hour before the Fit, and Sweat plentifully in bed, drinking a little Roſemary, Marygold, or Cardus Poſſet-drink; which being continued four or five times, generally takes it off.—For Fluxes, and ſuch Diſtempers in Women, as debilitate their Strength, take a Pill in a glaſs of Sack mull'd with Cinamon.-For the Gout and Rheumatiſms of the whole Body, take a Pill in a glaſs of Rheniſh-wine, drinking ſometimes of our <hi>Aqua-Vitae Magiſtralis;</hi> this ge<g ref="char:EOLhyphen"/>nerally eaſes at twice taking: it divides alſo clods of Blood, and breaks inward Impoſthumes, carry<g ref="char:EOLhyphen"/>ing off their matter, and heals them; as alſo Brui<g ref="char:EOLhyphen"/>ſes and Squats.—For difficulty of making Wa<g ref="char:EOLhyphen"/>ter, the Strangury, Stone or Gravel in the Kidnies, diſſolve 2 Pills, the bigneſs of 2 large grey Peas in a pint of White-wine, and ſweeten it with 5 or 6 Ounces of Syrup of Marſh-mallows, and let it be for 2 draughts, with 3 hours Intermiſſion in the moſt violent pain, drinking often a draught of poſſet-drink, wherein is boyled ſome Pelitory
+<pb n="6" facs="tcp:35102:5"/> of the wall, and a few Gromwel ſeeds, at the diſ<g ref="char:EOLhyphen"/>cretion of the Patient, keeping your ſelf warm in Bed always when it's taken, and ſo will the Of<g ref="char:EOLhyphen"/>fending matter be carried off. For Children with<g ref="char:EOLhyphen"/>in 3 or 4 Years Old, you may give the bigneſs of a Pepper Corn, and ſo it may be increaſed or di<g ref="char:EOLhyphen"/>miniſhed in it's Doſe, according to the Wiſdom and Diſcretion of the Parent. <hi>Price</hi> 12<hi>d. the Box.</hi>
+                  </p>
+                  <p>☞ <hi>Obſerve, Always when you take of this Pill, to take ſome of our Cordial Drops in a glaſs of Sack, or other Cordial Water to refreſh the Spirits.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="3" type="medicine">
+               <head>III. <hi>Aqua Bezoratica: Our Cordial (or Plague) Water.</hi>
+               </head>
+               <p>1 THis Cordial is good in Sadneſs, Melan<g ref="char:EOLhyphen"/>cholly, and Dejection of mind, pains of the Spleen, reviving the Spirits. 2. It power<g ref="char:EOLhyphen"/>fully reſiſts Poiſon, Plague, Small-Pox, and all ſorts of malign Fevers: it cures the biting of Venomous Beaſts. 3. It is a good <hi>Stomachick;</hi> Comforts the Head, Brain, and Bowels: it cauſes a good Appe<g ref="char:EOLhyphen"/>tite, taking away Sickneſs at Heart and Stomach: it's profitable againſt Swoonings, fainting Suffoca<g ref="char:EOLhyphen"/>cations, and Fits of the Mother. 4. This Water is Sudorifick, Alexipharmick, and Antifebritick: It is alſo a Cordial Cephalick, and a great Reſto<g ref="char:EOLhyphen"/>rative; and is excellent againſt cold and moiſt Di<g ref="char:EOLhyphen"/>ſeaſes.</p>
+               <div type="dose">
+                  <head>It's <g ref="char:V">Ʋ</g>ſe and Doſe.</head>
+                  <p>YOu may take from half a Spoonful to <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Spoon<g ref="char:EOLhyphen"/>fuls, or more, in the morning Faſting, a lit<g ref="char:EOLhyphen"/>tle before Dinner, and at bed time; it may be al<g ref="char:EOLhyphen"/>ſo
+<pb n="7" facs="tcp:35102:5"/> taken at any time of the Day, or Night, upon any Fainting, or Sickneſs at Stomach as occaſion requires, or in any languiſhing Conditions. It may be taken alone, or in caſe of great weakneſs, in a glaſs of Canary. <hi>Price Sixpence the Ounce.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="4" type="medicine">
+               <head>IV. <hi>Panacea Noſtri: Or, Our Prevalent Emetick, and Cathartick Pouder.</hi>
+               </head>
+               <p>THe Virtue and Nature whereof is ſuch, that it expells all Contagious and Malignant Hu<g ref="char:EOLhyphen"/>mours by the Emunctories; <hi>viz.</hi> by Vomit, Stool, Sweat, and Urine, and that after a moſt friendly and pleaſant way, few Doſes whereof will radical<g ref="char:EOLhyphen"/>ly cleanſe the Body and Blood from the original cauſe of old chronick and Hereditary Diſeaſes; as the Epilepſie, Convulſion, Madneſs, Schrophula, (or the Diſeaſe called the King's Evil,) Leproſy, or any foulneſs or corruption of the Blood, French-Pox, and other moſt grievous Diſeaſes, as Ulcers, Fiſtula's Noli me Tangere's and in all kinds of Diſeaſes in Men, and Women (except Women with Child) of what Nature ſoever they be.</p>
+               <div type="dose">
+                  <head>It's <g ref="char:V">Ʋ</g>ſe and Doſe.</head>
+                  <p>FOr any of the aforeſaid chronick Diſeaſes, let the Body be once or twice well purged with our <hi>Sal Lenitium,</hi> then after 3 Days reſpite, take a Paper of this Pouder in the pulp of an Apple, or prune, a little fine Sugar, or Syrup of Gilly-flowers; and if in caſe at any time this Medicine ſhould not have any viſible Operation at all, yet never the leſs it will perform its Office, and drive forth the Di<g ref="char:EOLhyphen"/>ſtemper:
+<pb n="8" facs="tcp:35102:6"/> Now if the Diſeaſe be Rebellious it muſt be continued to be taken every 5th Day, and the intermitting 3d Day, take a Doſe of our Balſamick Pill, as 'tis preſcribed; this method doth very well For the Scurvy, Pox, Gonorrheae, and inveterate Ulcers.—For Agues, let it be taken 2 hours before the Fit, to cleanſe the Body; and to perfect the Cure, proceed as is directed in the uſe of the Pill. For Fits and Convulſions in Children, let it be ta<g ref="char:EOLhyphen"/>ken in Breaſt-milk, and not exceeding the weight of a Rape-ſeed: It may be given to New-born In<g ref="char:EOLhyphen"/>fants; but as they increaſe in ſtrength, ſo may the Doſe be ſomewhat increaſed, at the diſcretion of the Parent. For Children of 3 or 4 Years of Age, give the 3d part of a Paper: For thoſe of 7, 8, or 9, give half a Paper, always obſerving to take Poſſet-drink freely, during the Operation: The Paper contains 3 Doſes, at 2<hi>s.</hi> 6<hi>d.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="5" type="medicine">
+               <head>V. <hi>Elixer Magnum Cordialis: Or, Our Great and Famous Cordial Drops.</hi>
+               </head>
+               <p>BEing a wonderful Arcanum, whoſe Virtue and Prevalency hath been powerful in theſe following Diſeaſes; as the Falling-ſickneſs, Apo<g ref="char:EOLhyphen"/>plexy, Lethargy, Palſey, Convulſions; and moſt other Diſeaſes of the Head, Brain, and Nerves; they cure the Vapours in Women, and Fits of the Mother; they remove Oſtructions, and pains of Spleen; they are alſo an admirable Remedy in the Plague, Spotted-fever, Small-pox, and Meaſles, or any malignant Fever, reſiſting putrifaction of the
+<pb n="9" facs="tcp:35102:6"/> Blood, which have been confirmed by about 19 Years Experience in our daily Practice <hi>&amp;c.</hi>
+               </p>
+               <div type="dose">
+                  <head>It's <g ref="char:V">Ʋ</g>ſe and Doſe.</head>
+                  <p>TAke as follows from 4 drops to 12, 14, 20, 25, or 30, to 60. in Canary, or any other pro<g ref="char:EOLhyphen"/>per Cordial; and for the diſeaſes of the Head, let it be taken in a Cephalick Cordial; and alſo let the Temples and Noſtrils be bathed therewith. For Children that are like to have the Small-pox, give this Medicine to bring out the Diſtemper; (increa<g ref="char:EOLhyphen"/>ſing or diminiſhing the Doſe as you ſee convenient) in a glaſs of Sack, hot Mace-ale, or ſome convenient Cordial, diſpoſing the party for Sweat, drinking of<g ref="char:EOLhyphen"/>ten a good draught of hot poſſet-drink, and boyl there in <hi>Marygold-flowers,</hi> a top of <hi>Balm, Angelica,</hi> and <hi>Roſemary;</hi> in Surfeits let it be taken in the man<g ref="char:EOLhyphen"/>ner aforeſaid, (obſerving that the Stomach be firſt cleanſed by often taking of our <hi>Aq. vitae Magiſtralis)</hi> for Children that are inclined to Rickets, or breed<g ref="char:EOLhyphen"/>ing of their Teeth, give ſome drops in a little ſyr. of Cowſlips or Poppies.—In intermitting Fevers give above 60 drops in a glaſs of Sack or Rheniſh Wine. In continual Fevers give it every 6 hours in the manner aforeſaid; always minding to take at the hour of reſt, a ſmall Doſe of our Balſamick pill, as alſo our <hi>Pulvis Antefibriticus,</hi> according to directions in its place. In Conſumptions and great Weakneſs, take 40 or 50 drops Mornings and Nights in a glaſs of Canary; as alſo 2 or 3 times a Day, for the ſpace of 40 Days together.</p>
+                  <p>☞ Obſerve. <hi>Women with Child may ſafely take</hi>
+                     <pb n="10" facs="tcp:35102:7"/> 
+                     <hi>this Medicine. Price four Shillings the Bottle.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="6" type="medicine">
+               <head>VI. <hi>Pulvis Antifebriticus Noſter:</hi> Or, <hi>our General Febrifuge.</hi>
+               </head>
+               <p>1. AN admirable pouder againſt Fevers of all ſorts: A few Doſes thereof (with the uſe of the other Medicines) <hi>takes</hi> off the Fever be<g ref="char:EOLhyphen"/>yond Expectation. 2. It is ſomething <hi>Sudorifick,</hi> but for the moſt part <hi>works</hi> downwards firſt, and af<g ref="char:EOLhyphen"/>terwards <hi>provokes</hi> Sweat; it is a prevalent remedy againſt putrid Fevers, Meaſles, Small-pox, Ca<g ref="char:EOLhyphen"/>lenture, Spotted-fever, and other venemous Diſea<g ref="char:EOLhyphen"/>ſes. 3. It is good againſt the <hi>Green-ſickneſs,</hi> Drop<g ref="char:EOLhyphen"/>ſie, Melancholly, Scurvy, Jaundice, and its profita<g ref="char:EOLhyphen"/>ble in <hi>Hectick Fevers.</hi> 4. It reſiſts Putrifaction, fortifies the Stomach, corrects Crudities, purifies the Blood, cleanſes the Bowels of filth and viſcous Hu<g ref="char:EOLhyphen"/>mours, by a gentle Purging way.</p>
+               <div type="dose">
+                  <head>The Doſe and manner of <g ref="char:V">Ʋ</g>ſing it.</head>
+                  <p>1. LEt the Patient <hi>drink</hi> plentifully of our <hi>Aq. Vitae Mag.</hi> according to the directions in its place: give a Doſe of pouder in the Morning, and at Evening for 8, 12, or 16, days as you ſee occaſion, more or leſs; you may give it in form of a Bolus in a little <hi>Marmalade</hi> of Quinces, or pulp of Pruens, Jelly of Harts-horn; or it may be exhibited in a Glaſs of Canary, or a ſpoonful of Syr. of Saffron, or Clove-Gilly flowers.</p>
+               </div>
+            </div>
+            <div n="7" type="medicine">
+               <pb n="11" facs="tcp:35102:7"/>
+               <head>VII. <hi>Aqua Ruba Mineralis.</hi>
+               </head>
+               <p>IS an excellent <hi>Medicine</hi> of a preſervative Nature, of great benefit in the plague, and other con<g ref="char:EOLhyphen"/>tagious diſtempers; particularly againſt the burn<g ref="char:EOLhyphen"/>ing thirſt in Fevers: Good againſt Coughs, Short<g ref="char:EOLhyphen"/>neſs of Breath, <hi>Ptyſick,</hi> the diſeaſes of Throat and <hi>Mouth;</hi> as Angimas, Strumas, Inflammations of the Pallate, or Uvula of the <hi>Mouth,</hi> Thruſh in Children, Quinſies, and ſuch <hi>like</hi> Inflammations; as alſo for an unſavory Breath.</p>
+               <div type="dose">
+                  <head>It's <g ref="char:V">Ʋ</g>ſe and Doſe.</head>
+                  <p>FOr Thruſhes or ſore <hi>Mouths</hi> in <hi>ſucking</hi> Children, or any foulneſs of the Tongue, or Throat, 2, 3, or 4 drops dropped into a little White-wine, or Plantain-water, ſweetned with a little Honey of Roſes, and ſo <hi>drink</hi> it, and waſh their <hi>Mouthes</hi> with the ſame; for People of riper Years, they muſt Gargle their <hi>Mouths</hi> with it; it being compoſed to a Gargariſm with White-wine, or Plantain-water, and dulcified with Syrup of <hi>Mulberries,</hi> or Honey of Roſes; often <hi>taking</hi> from 6 drops to 40, or 50, in Beer, White-wine, or Plantain-water. For the burning Thirſt in <hi>Fevers,</hi> give from 6 drops to 40 or 50, or half a Spoonful in ſo much Beer, or Ale, that it may taſt ſharpiſh of the Medicine; if the <hi>Fever</hi> be violent, it may be given 3 or 4 times in 5 or 6 hours ſpace; but in continual <hi>Fevers</hi> it may be given as often as the party deſires to <hi>drink,</hi> obſer<g ref="char:EOLhyphen"/>ving in ſuch caſes to <hi>take</hi> often to procure Sweat, of my <hi>Elix. Magnum Cordialis,</hi> and at Night to <hi>take</hi>
+                     <pb n="12" facs="tcp:35102:8"/> a Doſe of <hi>Vinum vitae,</hi> to cauſe reſt, and expell the venom of the diſtemper; for ſhortneſs of Breath, the Ptyſick, and Cough, give it in Hyſop-water, with a little Liquoriſh, and 5 Figs decocted therein; for a ſtinking Breath, and to create an Apetite, take it Mornings faſting, and 2 hours before dinner; and an hour before ſupper; about 6 or 8 drops in Beer or Wine. <hi>Price One Shilling Six-pence the Bottle.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="8" type="medicine">
+               <head>VIII. <hi>Poteſtates Succini:</hi> Or, <hi>our Powers of Amber.</hi>
+               </head>
+               <p>1. IS a moſt admirable Remedy againſt Cold, and moiſt diſeaſes of the Head, Brain, Nerves, and Womb. 2. They Cure Head-achs, Lethar<g ref="char:EOLhyphen"/>gies, Dulneſs, and Sleepineſs, and other pituitous diſtempers of the Brain. 3. They are admirable againſt Cramps, and Convulſions. 4. They are excellent in Palſies, Rheumatiſms, and Gouts. 5. Againſt Fits of the Mother in Women; and takes away pains after their Deliveries, <hi>cum multis alijs.</hi>
+               </p>
+               <div type="dose">
+                  <head>The Doſe, and manner of <g ref="char:V">Ʋ</g>ſing them.</head>
+                  <p>FOr outward uſes bath the place affected very well twice a day, till you find Relief; inwardly, take them from 15 drops, to 30, 40, or 60, in a Glaſs of Sack, Night and Morning: Continue the ſame for 40 days or more, as you ſee occaſion.</p>
+                  <p>
+                     <hi>Price one Shilling ſix-pence an Ounce.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="9" type="medicine">
+               <head>IX. <hi>Tinctura Hyſterica:</hi> Or, <hi>our Hyſte<g ref="char:EOLhyphen"/>rick Drops against Fits.</hi>
+               </head>
+               <p>THeſe Drops are compoſed againſt thoſe cal<g ref="char:EOLhyphen"/>led Hyſterick Fits, <hi>viz.</hi> Suffocation of
+<pb n="13" facs="tcp:35102:8"/> the Matrix, <hi>(alias,</hi> Fits of the Mother) for which its a moſt excellent Remedy; as alſo againſt the Collick Megrim, Falling-ſickneſs, palpitation of the Heart, Obſtructions, and Weakneſſes of the Head, Nerves, and Womb: It attenuates, opens Diſeaſes, reſiſts Poyſon, provokes Urine, and the Terms; and is profitably given in the <hi>Green-ſick<g ref="char:EOLhyphen"/>neſs</hi> in Virgins, <hi>Rickets</hi> in Children.</p>
+               <div type="dose">
+                  <head>The Doſe and manner of takng it.</head>
+                  <p>IN any of the aforeſaid diſeaſes, you may <hi>take</hi> it in White or Rheniſh-wine, or in Shery, or Ca<g ref="char:EOLhyphen"/>nary, or other proper <hi>Hyſterick</hi> Julep; give it when the Fits is off, and in a Morning faſting, and laſt at Night; but when any Fit comes, give it in the time of the Fit: For young Virgins, let them <hi>take</hi> in White-wine: For the <hi>Rickets</hi> in Children, give it in Canary, or old Malago, Bathing the Joynts, and <hi>Back-bone</hi> with our <hi>
+                        <g ref="char:V">Ʋ</g>nguentum Rachitidem,</hi> or Oyntment for the <hi>Rickets,</hi> twice a day, before the Fits: The Doſe is from 20 drops, to 30, 40, or 60, according to Age, and Strength. <hi>Price three Shil<g ref="char:EOLhyphen"/>lings the</hi> Ounce.</p>
+               </div>
+            </div>
+            <div n="10" type="medicine">
+               <head>X. <hi>Arcanum Chalybeatum:</hi> Or, <hi>our Steel Drops.</hi>
+               </head>
+               <p>WHoſe Virtues are powerful in removing, and carrying off all Obſtructions, of what <hi>kind</hi> ſoever they be, which are incident to young Virgins; and alſo a very ſafe Remedy in the Drop<g ref="char:EOLhyphen"/>ſie, provided it be <hi>taken</hi> with the other.</p>
+               <div type="dose">
+                  <pb facs="tcp:35102:9"/>
+                  <head>It's <g ref="char:V">Ʋ</g>ſe and Doſe.</head>
+                  <p>WHich is from 10 or 12 drops, to 20 or 30, ac<g ref="char:EOLhyphen"/>cording to Age and Strength. Mornings faſt<g ref="char:EOLhyphen"/>ing in a draught of Water-gruel, warm Broth, or <hi>Mace-ale, keeping</hi> the Body ſtirring by ſome mode<g ref="char:EOLhyphen"/>rate Exerciſe, always obſerving to take every 3d Day, a Doſe of our <hi>Sal. Lenitium;</hi> let it be conti<g ref="char:EOLhyphen"/>nued for the ſpace of forty Days. <hi>Price Two Shillings Six-pence the Bottle.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="11" type="medicine">
+               <head>XI. <hi>Gutta Lythontripticae:</hi> Or, <hi>our Stone-Breaking Drops.</hi>
+               </head>
+               <p>THeſe Drops are a moſt incomparable Reme<g ref="char:EOLhyphen"/>dy for the Collick and Stone; being an Arcanum fit for the Cloſet of a Prince, or any No<g ref="char:EOLhyphen"/>ble Man; and is herewith made publick for the benefit of thoſe that are afflicted with that deplor<g ref="char:EOLhyphen"/>able diſeaſe of the Stone, Strangury, Collick, and difficulty of Urine.</p>
+               <div type="dose">
+                  <head>The <g ref="char:V">Ʋ</g>ſe and Doſe of theſe Drops, with neceſſary Obſervations.</head>
+                  <p>THe Doſe is from 20 to 40, or 50 Drops in a glaſs of White or Rheniſh-wine, every four hours, and in the time of each four hours, drink a Doſe of our <hi>Aqua Vitae Magiſtralis,</hi> as directed in its place, and at the hour of Reſt, take a Doſe of our <hi>Balſa<g ref="char:EOLhyphen"/>mick Pill,</hi> as in the directions of the ſaid <hi>Pill</hi> in its place; and by the bleſſing of God upon this Medi<g ref="char:EOLhyphen"/>cine thou wilt find the Stone to break and diſſolve, coming away in ſmall pieces, and Sand: proceed in the ſame manner for the Collick. And I need ſay
+<pb n="15" facs="tcp:35102:9"/> no more it being ſo effectual an <hi>Arcanum;</hi> it will ſufficiently demonſtrate its own Praiſe. <hi>Price Ten Shillings the Ounce.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="medicine">
+               <head>
+                  <hi>Sal. Lenitivum:</hi> Or, <hi>A Famous Purging Salt.</hi>
+               </head>
+               <p>BEing a <hi>Salt</hi> prepared of Mineral Subjects by apt mediums, purify'd and reconciled to the <hi>Archeus</hi> and thereby be<g ref="char:EOLhyphen"/>comes a <hi>Salutiferous</hi> Remedy, enobled with Virtues ſufficient for the Curing of many Diſeaſes. It is neither an <hi>Acid</hi> nor an <hi>Alcaly,</hi> but a <hi>Salt</hi> of a midling Nature, being able to paſs the ſeveral Digeſtions unchanged, and in its paſſage to reſolve and abſterge all Preternatural Coagulations, for which reaſon I call it <hi>Sal. Lenitivum,</hi> it is endowed with theſe 4 general properties, viz. <hi>Cathartick, Dieuretick, Deobſtruent,</hi> and al<g ref="char:EOLhyphen"/>laying of all Preternatural heat and <hi>Acrimony:</hi> beſides it is a general eaſer of pain, (and extinguiſher of Venom) as is mani<g ref="char:EOLhyphen"/>feſt by what it effects in alleviating the Pains of the <hi>Gout, Rheu<g ref="char:EOLhyphen"/>matiſm, Collick, griping</hi> of the <hi>Guts. 1ſt.</hi> It Purgeth the groſs Excrements, and moſt viſcous humours of the firſt paſſages without nauſeating the Stomach, or the leaſt Griping Pains. <hi>2ly.</hi> It is ſingular in opening Obſtructions of the Veſſels and <hi>Viſcera.</hi> It is of great uſe in <hi>Fevers,</hi> eſpecially thoſe that proceed from Surfeits, occaſioned by Eating or Drinking. It alſo diſſolves all Stagnant and Obſtructing matter in the <hi>Viſ<g ref="char:EOLhyphen"/>cera.</hi> This Medicine doth not only diſſolve and expurge the Excrements of the Stomach and Guts; but it alſo corrects the violence of all Preternatural Purges, if you put but two drams of it in their Infuſion, or drink the ſame quantity in a draught of warm Ale, or Poſſet-drink, after any Potion, that will Gripe or Operate Churliſhly, <hi>&amp;c.</hi> This admirable <hi>Salt</hi> never leaves the Belly bound, as the common Purges do, but always Solu<g ref="char:EOLhyphen"/>ble, therefore excellent againſt a Coſtive temper of Body. The 2d. intention of this <hi>Salt</hi> is to alter and open Obſtructions in the <hi>Liver, Spleen, Meſentery, Pancras, Reins, Bladder,</hi> and <hi>Womb,</hi> from which proceed many tedious and ſtubborn Diſea<g ref="char:EOLhyphen"/>ſes, as the <hi>Scurvy, Dropſie, Jaundice, Hypocondriack Melan<g ref="char:EOLhyphen"/>cholly, Vapours, Green-ſickneſs, Rheumatiſm,</hi> inveterate <hi>Head-Ach, Reſtleſneſs, Sleepineſs, Vertigo, Frenzy, Cramps, Convul<g ref="char:EOLhyphen"/>ſions,</hi> internal <hi>Inflammations,</hi> and <hi>Apoſthumes, Piles, Exul<g ref="char:EOLhyphen"/>cerations</hi> of the <hi>Kidnies</hi> and <hi>Bladder, Gravel,</hi> ſtoppage of <hi>
+                     <g ref="char:V">Ʋ</g>
+                     <g ref="char:EOLhyphen"/>rine,</hi>
+                  <pb n="16" facs="tcp:35102:10"/> &amp;c. Together with many others, ariſing from Obſtru<g ref="char:EOLhyphen"/>ctions and Acrimony of the Blood, and Vital Juices. This excellent <hi>Salt</hi> may be taken at all times of the Year, and in all places, without loſs of time, or hindrance of buſineſs; and although it be of great Uſe and Service in very many Diſeaſes, yet I have by experience obſerved, that in ſome it is Specifi<g ref="char:EOLhyphen"/>cally Potent; as in the <hi>Scurvy, Jaundice, Dropſie, Suffocations, Green-ſickneſs,</hi> ſtoppage of the <hi>Menſes, Piles, Cholick, Diar<g ref="char:EOLhyphen"/>rhaea, Bloody-flux, Worms, Inflammations,</hi> and <hi>Rheums</hi> of the <hi>Eyes, Itch,</hi> and other <hi>Cholerick Eruptions,</hi> of the Skin, heat of <hi>
+                     <g ref="char:V">Ʋ</g>rine;</hi> in all which caſes it hath ſignaliz'd it ſelf.</p>
+               <div type="dose">
+                  <head>It's <g ref="char:V">Ʋ</g>ſe and Doſe.</head>
+                  <p>FOr any of the aforenamed Diſeaſes, to a Man or Woman is, from half an Ounce, to three quarters of an Ounce, a Child of a Year Old, one Dram to two Drams, and ſo on according to Diſcretion of the Parent, and Age of the Child, always to be diſſolved in Spring water, plain Poſſet-drink, or thin Water-gruel, (and in Summer-time) in Whey, which the Patient fancies beſt to take it in. In the <hi>Scurvy</hi> it ought to be taken daily, or every other day, for a Month or ſix Weeks together, taking in all their Drink a pure Spirit of <hi>Salt,</hi> (to the quantity of 40 drops in a Day) which may be had at my Houſe for 12<hi>d.</hi> the <hi>Bottle.</hi> For the <hi>Jaundice</hi> I give it in Sum<g ref="char:EOLhyphen"/>mer in Water or Whey, in Winter in warm Gruel, or Poſ<g ref="char:EOLhyphen"/>ſet drink; 5 or 6 drams while the <hi>Jaundice</hi> ceaſe, obſerving to take it every other Day; in the <hi>Dropſie</hi> in the ſame man<g ref="char:EOLhyphen"/>ner as the <hi>Jaundice,</hi> only in a leſs quantity of the Vehicle, continue it for a Months time. In the <hi>Green-ſickneſs</hi> in Maids, it is neceſſary to diſſolve an Ounce of the <hi>Salt</hi> in a Quart of pure Spring-water, and to take half a pint every Night, and the ſame quantity early the next Morning; continue taking, if need be a Month or 5 Weeks. In the <hi>Piles,</hi> a quarter of an Ounce of the <hi>Salt</hi> diſſolved in Water or Whey, and taken for ſome time. In the <hi>Cholick,</hi> or <hi>griping</hi> of the <hi>Guts,</hi> take one Quart of Spring-water, and boyl therein two Drams of each of the Seeds of <hi>Annis, Fennil, Caraway,</hi> and <hi>Coriander,</hi> then diſſolve therein an Ounce of the <hi>Salt,</hi> and let the Patient drink fre<g ref="char:EOLhyphen"/>quently thereof a ſmall draught, that the whole Quant may be drank in a Day; if the Party Vomit, continue the Doſe while
+<pb n="17" facs="tcp:35102:10"/> the Vomiting ceaſeth. In a <hi>Diarrhaea,</hi> or common Looſneſs, boyl <hi>Wheat-bran</hi> in Spring-water, and take half an Ounce in the Decoction thereof, daily or every other Day, according to Strength. In a <hi>Diaſſenteria,</hi> or <hi>Bloody-flux,</hi> give it in a Deco<g ref="char:EOLhyphen"/>ction of red <hi>Roſe-leaves,</hi> boyled in Water, giving a Clyſter daily, made with the Broth of a <hi>Sheeps-head,</hi> continue the uſe till the Party find Relief. For <hi>Rheums</hi> of the Eyes, take it daily in the ordinary manner. In the <hi>Itch, Botches, Boyls,</hi> and other Cholerick Eruptions of the Skin, give half an Ounce, or 5 Drams, diſſolved in <hi>Fumatory-water,</hi> or Whey, for a Fort<g ref="char:EOLhyphen"/>night or three Weeks together, taking ſometimes in their Beer, a Spirit of <hi>Salt,</hi> till the Cure be perfected. The Price of this Noble SALT is <hi>one Shilling the</hi> Ounce.</p>
+               </div>
+            </div>
+            <div n="13" type="medicine">
+               <head>XIII. <hi>Vinum Vitae:</hi> Or, <hi>Our Anodine Drops.</hi>
+               </head>
+               <p>BEing a ſoveraign Medicine againſt a <hi>Diaſſenteria,</hi> or <hi>Bloo<g ref="char:EOLhyphen"/>dy-flux, Cholick, Gripes, Vomiting,</hi> and <hi>Looſneſs</hi> in Young or Old; and to procure quiet Reſt.</p>
+               <div type="dose">
+                  <head>The <g ref="char:V">Ʋ</g>ſe and Doſe.</head>
+                  <p>FOr a Man or Woman, take always at Bed-time half a ſpoon<g ref="char:EOLhyphen"/>ful in a draught of Mace-ale, or Mul'd wine. For Chil<g ref="char:EOLhyphen"/>dren in the Month, from 4 drops to 20 in Breſt-milk, or Ale; as they increaſe in Age, ſo may the Doſe be increaſed; at the Diſcretion of the Nurſe, or Parent. <hi>Price one Shilling the Bottle.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="14" type="medicine">
+               <head>XIV. <hi>Eſſentia Stomachia:</hi> Or, <hi>our Stomach Eſſence.</hi>
+               </head>
+               <p>IS a great ſtrengthner of the Stomach, and expells Wind, good againſt the <hi>Cholick, Gripes, Pains</hi> at the <hi>Stomach, Stitch<g ref="char:EOLhyphen"/>es,</hi> and <hi>Pains</hi> in the <hi>Side:</hi> It helps indigeſtions, and cures <hi>Sur<g ref="char:EOLhyphen"/>feits,</hi> and attracts cold watery <hi>Rheums</hi> from the <hi>Stomach.</hi>
+               </p>
+               <p>
+                  <hi>The Doſe is from</hi> 4 <hi>drops to</hi> 25 <hi>in a glaſs of Wine, or Ale,</hi> 2 <hi>or</hi> 3 <hi>times a Day, as neceſſity calls for it.</hi> Price Two Shil<g ref="char:EOLhyphen"/>lings Six-pence the Bottle.</p>
+            </div>
+            <div n="15" type="medicine">
+               <head>XV. <hi>Spiritus Paragoricus:</hi> Or, <hi>Our Bathing Spirit.</hi>
+               </head>
+               <p>WHich is a ſafe ſure and ready Medicine; it may be ta<g ref="char:EOLhyphen"/>ken inwardly in Paralitick and Appoplectick Caſes; but I here chiefly deſign it, for external Uſes; it being a ſin<g ref="char:EOLhyphen"/>gular <hi>Arcanum</hi> in the <hi>Eryſipelas</hi> and <hi>Gangrenes</hi> (it al<g ref="char:EOLhyphen"/>ayeth
+<pb n="18" facs="tcp:35102:11"/> the Pains of the <hi>Gout)</hi> Cloths being dipt in it and ap<g ref="char:EOLhyphen"/>plyed, if it be laid to the Pulſe at the Wriſts, its good in ar<g ref="char:EOLhyphen"/>dent <hi>Fevers,</hi> it helpeth ſtrained Limbs, Pains and Aches in a<g ref="char:EOLhyphen"/>ny part of the Body; with benumed Nerves, the ſhrinking of the Sinews, and is very good to ſmell to, and Bath the Tem<g ref="char:EOLhyphen"/>ples and Fore-head for the Head-ach, warming and comforting the parts where there ſeems to be a decay of Life, or want of Nutriment. <hi>Price Two Shillings Six-pence the Bottle.</hi>
+               </p>
+            </div>
+            <div n="16" type="medicine">
+               <head>XVI. <hi>Pul-vis Antivermis:</hi> Or, <hi>Our Worm-powder.</hi>
+               </head>
+               <p>BEing a certain Remedy killing and deſtroying the cauſe of all ſorts of Worms in the Bodies of Men, Women, and Children; it ought to be taken generally at the New or Full of the Moon in the Morning Faſting; it works moderately by Stool; you may give it to a Child of a year old a quarter of a Paper, for one of 3 years half a Paper, for thoſe of ſix or ſeven a whole Doſe; ſo go on according to diſcretion; it may be taken in the pulp of an Apple, Sugar, or Syrup of Clove<g ref="char:EOLhyphen"/>gilly-flowers, or warm Ale. <hi>Price one Shilling the Paper, which contains</hi> 4 <hi>whole Doſes.</hi>
+               </p>
+            </div>
+            <div n="17" type="medicine">
+               <head>XVII. <hi>
+                     <g ref="char:V">Ʋ</g>ngt. Anti podigra: Or, Our Famous Oynt<g ref="char:EOLhyphen"/>ment against that Rebellious Diſeaſe, the Gout.</hi>
+               </head>
+               <p>IN the moſt violent pains of the Gout, let the part be well bathed before the Fire Night and Morning with a warm Hand for a quarter of an hour, applying ſoft Brown-paper to the part; then, Flannel-cloaths 2 or 3 times double, and Bind it up, and after it hath been uſed 3 or 4 Days, uſually ariſes ſome ſmall Bliſters, or Puſhes, from whence the morbi<g ref="char:EOLhyphen"/>fick matter will be ſomewhat diſcharged, Then ceaſe from uſing this Ovntment, and proceed thus; firſt, take every third day a doſe of our <hi>Panacea,</hi> as its directed in its place, till about 7 or 8 doſes be taken; then take Nights of our Bal<g ref="char:EOLunhyphen"/>ſamick Pill, as is preſcribed, for 2 or 3 Nights, till the pains are abated; and in the day time take every hour after, of our <hi>Aq. vitae Magiſtralis,</hi> obſerving about once in 4 days after you begin to take the Pill to take a doſe of our <hi>Sal. Lenitium</hi> and doubt not by continuing the uſe of the Oyntment, with the other Preſcriptions thou may be relieved from the dolors
+<pb n="19" facs="tcp:35102:11"/> thereof with Succeſs. <hi>Price Five Shillings the Pot.</hi>
+               </p>
+            </div>
+            <div n="18" type="medicine">
+               <head>XVIII. <hi>
+                     <g ref="char:V">Ʋ</g>ngt. Rachitidem:</hi> Or, <hi>Our Oyntment against the Rickets.</hi>
+               </head>
+               <p>WHich is excellent for bathing down the Back-bone, and all the Joynts, (giving them daily of our <hi>Hyſterick Drops</hi> in old <hi>Malago,</hi> and ſometimes of our great <hi>Cordial Drops,</hi> as directed.)</p>
+               <p>
+                  <hi>—Obſerve.</hi> This Oyntment is of excellent uſe for cur<g ref="char:EOLhyphen"/>ing any Cut, Rench, or Strain; and for old ſettled Pains in the Joynts, provided it be well chaffed in by the Fire: For Cuts, or any Green-wounds, melt a little of the ſame and dip a pledget of Lint and apply it warm once in 24 hours and it will heal the ſame. <hi>Price one Shilling the Pot.</hi>
+               </p>
+            </div>
+            <div n="19" type="medicine">
+               <head>XIX. <hi>
+                     <g ref="char:V">Ʋ</g>ngt. Viridi:</hi> Or, <hi>A ſoveraign Green-oyntment for Burns, and Scalds,</hi> &amp;c.</head>
+               <p>THis Oyntment being melted, and the Burn or Seald anoynt<g ref="char:EOLhyphen"/>ed with a Feather Morning and Night, infallibly cures the ſame, obſerving after the anoynting to apply a piece of ſoft White-paper, and cut the Bliſters, and if the Burn or Scald be filthy or dirty, let it be waſhed with warm Milk. For an <hi>Eriſipleas</hi> (or St. <hi>Anthony's-Fire)</hi> with all other hot Inflam<g ref="char:EOLhyphen"/>mations, let it be uſed evey ſix hours, and doubt not the Suc<g ref="char:EOLhyphen"/>ceſs. <hi>Price one Shilling the Pot.</hi>
+               </p>
+            </div>
+            <div n="20" type="medicine">
+               <head>XX. <hi>
+                     <g ref="char:V">Ʋ</g>nguentum, &amp; aqua occularis;</hi> Or, <hi>our wonderful Oyntment and Water for the Diſeaſes of the Eyes.</hi>
+               </head>
+               <p>BEing a Remedy inferior to none that is extant of this kind, but is a ſingular Medicine for Dimneſs of the Sight, Pin and Web, Pearls, <hi>&amp;c.</hi> it eaſes Pains, and cureth Diſeaſes of the Eyes to a miracle; it takes away Suffuſions, Clouds, Blood-ſhot; it cures running Eyes, ſalt, hot and ſharp Rheums <hi>&amp;c.</hi> (I need ſay no more) it having cured thoſe that have been almoſt Blind, which we have often Experienced; and (particularly in our own Family) it ought to be eſteem<g ref="char:EOLhyphen"/>ed as a Jewel.</p>
+               <div type="dose">
+                  <head>The <g ref="char:V">Ʋ</g>ſe thereof as followeth</head>
+                  <p>FIrſt, Let the Eyes be daily waſhed 3 or 4 times in a Day, letting ſome of it drop into the Eyes, and after they have
+<pb n="20" facs="tcp:35102:12"/> been well waſhed (eſpecially at Bed-time) take the quantity of a Pepper-corn of the Oyntment and put it in at the corner of the Eye and lye down, and it will diſperſe it ſelf, and it cauſeth no Pain, but effects the cure in a little time; if the Party be afflicted with violent Pains in the Head, we would have them to take a Doſe or two of our <hi>Balſamick Pill,</hi> and to Purge twice a Week with our <hi>Sal. Lenitivum. The Price of the Bottle of Water, and Box of Oyntment is two Shillings.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="medicines">
+               <p>Neceſſary Directions (for the ſake of thoſe that are Poor) to make the <hi>Pearl Cordial,</hi> and the cool<g ref="char:EOLhyphen"/>ing <hi>Purple Julep,</hi> &amp;c. which any <hi>Apothecary's-Shop</hi> can furniſh you with. And may be pro<g ref="char:EOLhyphen"/>perly taken, either of them, or both, with the Medicines herein Preſcribed, at the Pleaſure and Diſcretion of the Patient.</p>
+               <div n="21" type="medicine">
+                  <head>XXI. <hi>Julapium Perlatum:</hi> Or, <hi>our Pearl Cordial.</hi>
+                  </head>
+                  <p>TAke the Waters of Borage, Bawm, Black cherries, of each three ounces; Compound, Peony-water, and Theri<g ref="char:EOLhyphen"/>cal-water, of each one ounce; double reſmed Sugar, one ounce; Pearls prepared, one Dram and a half; being ming<g ref="char:EOLhyphen"/>led in a Glaſs-viol, and ſhaken together; you may take four or five Spoonfuls at a time in any Fainting, it being a good Cordial, and revives the Spirits.</p>
+               </div>
+               <div n="22" type="medicine">
+                  <head>XXII. <hi>Julapium Purpureum: The Purple Julep.</hi>
+                  </head>
+                  <p>TAke Syrup of Violets four ounces; Oyl of Sulphur, <hi>per</hi> Campane thirty Drops; Barley-water (or Plantain-wa<g ref="char:EOLhyphen"/>ter) two Pound mixed together, is very good to quench thirſt in Burning-fevers, and may be taken three or four Spoonfuls at a time, as often as the Patient ſhall require.</p>
+               </div>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="price-list">
+            <pb n="21" facs="tcp:35102:12"/>
+            <p> A Catalogue of the Names and Priſes of the Medicines con<g ref="char:EOLhyphen"/>tained in this Tract, which is Publiſhed for the ſake of thoſe who are not of Ability to give great Fees to a Phyſitian; I therefore refer them to the uſe of theſe Medicines which are able (by the bleſſing of God) to extirpate the moſt ſtub<g ref="char:EOLhyphen"/>born Diſeaſes incident to humane Bodies, provided they are taken in due Method, as they are directed in their proper Places; the charge of which not amounting to much more than ſome Phyſitian's Fees, if thou take them all together; which may be had, or any one of them, or more, as People may have occaſion at the Priſes mentioned.</p>
+            <p>
+               <list>
+                  <item>AQua-vitae Magiſtralis; or our Mageſterial Wa<g ref="char:EOLhyphen"/>ter; the Bottle being above a Pint. 3<hi>s.</hi>
+                  </item>
+                  <item>The Balſamick Pill, the Box 1<hi>s.</hi>
+                  </item>
+                  <item>Panacea, the Paper 2<hi>s.</hi> 6<hi>d.</hi>
+                  </item>
+                  <item>Elixer Mag. Cordialis, the Bottle 4<hi>s.</hi>
+                  </item>
+                  <item>Pul. Antifeb. the Paper 2<hi>s.</hi> 6<hi>d.</hi>
+                  </item>
+                  <item>Aqua Ruba Minaralis, the Bottle 1<hi>s.</hi> 6<hi>d.</hi>
+                  </item>
+                  <item>Poteſtates Succini, or Powers of Amber, the ounce 1<hi>s.</hi> 6<hi>d.</hi>
+                  </item>
+                  <item>Tinctura Hyſterica; or the drops againſt Fits the ounce 3<hi>s</hi>
+                  </item>
+                  <item>Gutta Lythontripticae; or our Stone-breaking Drops, by the ounce 10<hi>s.</hi>
+                  </item>
+                  <item>Vinum Vitae; or Anodine drops, the Bottle 1<hi>s.</hi>
+                  </item>
+                  <item>Eſentia Stomachia; or Stomach Eſſence, the Bottle 2<hi>s.</hi> 6<hi>d.</hi>
+                  </item>
+                  <item>Pul. Antivermis; or the Worm<g ref="char:EOLhyphen"/>pouder, the Paper 1<hi>s.</hi>
+                  </item>
+                  <item>Ungt. Antipodigra; or the Gout Oyntment, the Pot 5<hi>s.</hi>
+                  </item>
+                  <item>Sal. Lenitivum, the ounce 1<hi>s.</hi>
+                  </item>
+                  <item>Arcanum Chalybeatum; or our Steel Drops, the Bottle 2<hi>s.</hi> 6<hi>d.</hi>
+                  </item>
+                  <item>Ungt. Rachitidem 1<hi>s.</hi> Pot.</item>
+                  <item>Ungt. Viridi, for Burns and Scalds, and other Inflammati<g ref="char:EOLhyphen"/>ons. the Pot 1<hi>s.</hi>
+                  </item>
+                  <item>Aqua &amp; ungt. Occularis, the Box and Bottle 2<hi>s.</hi>
+                  </item>
+                  <item>Spiritus Mundus <hi>per</hi> ounce 1<hi>s.</hi> 6<hi>d.</hi>
+                  </item>
+                  <item>Spir. Mundus mixt <hi>per</hi> qut. 6<hi>s.</hi>
+                  </item>
+                  <item>Spir. Sedativus <hi>per</hi> ounce 3<hi>s.</hi>
+                  </item>
+                  <item>Aqua Ruba 1<hi>s.</hi>
+                  </item>
+               </list>
+            </p>
+         </div>
+         <div type="also_available">
+            <head>A Catalogue of various Preparations.</head>
+            <list>
+               <item>1. ARgentum Criſtalum.</item>
+               <item>2. Arcanum Helibori.</item>
+               <item>3. Aqua Antiſcorbutica.</item>
+               <item>4. Aqua Regina Hung.</item>
+               <item>5. Arcanum Goderani; or Dr. <hi>Goderd</hi>'s Drops.</item>
+               <item>6. Antimonum. Diaphyret.</item>
+               <item>7 Speties Generalis Ant.</item>
+               <item>8. Pul. Solaris Ant.</item>
+               <item>9. Speties Ruſseli Ant.</item>
+               <item>10. Tinct. Antimony Emet.</item>
+               <item>11. Tinct. Antimoni Antiſco.</item>
+               <pb n="22" facs="tcp:35102:13"/>
+               <item>12. Balſ. Samech.</item>
+               <item>13. Balſ. Sulpher noſt.</item>
+               <item>14. Elix. Sulpher.</item>
+               <item>15. Spir. Sulpher.</item>
+               <item>16. Elix. Propritatis. com.</item>
+               <item>17. Elix. Propritatis Medium Helmonti.</item>
+               <item>18. Elix. Prop. cum. cor. cer.</item>
+               <item>19. Elix. Propritatis volatile.</item>
+               <item>20. Elix. Propritatis noſtri.</item>
+               <item>21. Elixer Salutis.</item>
+               <item>22. Ence veneris.</item>
+               <item>23. Spiritus Odontugiaſus; or an excellent Spt. for Teeth.</item>
+               <item>24. Tinct. Antifebritica.</item>
+               <item>25. Tinct. Cordialis Amar.</item>
+               <item>26. Tinct. Corali Rub.</item>
+               <item>27. Tinct. Cordialis Regale.</item>
+               <item>28. Tinct. Benzonium.</item>
+               <item>29. Spirit Lavendulae.</item>
+               <item>30. Caſtori.</item>
+               <item>31. Sambucini.</item>
+               <item>32. Cochlearae Simplex &amp; purgans.</item>
+               <item>33. Abſinthi.</item>
+               <item>34. Vini com.</item>
+               <item>35. Vini. Tartariſed.</item>
+               <item>36. Salis com.</item>
+               <item>37. Salis Dulci.</item>
+               <item>38. Nitri.</item>
+               <item>39. Nitri Dulci.</item>
+               <item>40. Vitriole Dulci et Volatile.</item>
+               <item>41. Crani Humani.</item>
+               <item>42. Cor. Cervi.</item>
+               <item>43. Salis Armonici.</item>
+               <item>44. Oleum Salis Tartari.</item>
+               <item>45. Salis nitri Fixi.</item>
+               <item>46. Oleum Juniperi.</item>
+               <item>47. Oleum Succini.</item>
+               <item>48. Laudanum Volatile.</item>
+               <item>49. Laudanum Liquid.</item>
+               <item>50. Laud. Starky vel Pill Mathei.</item>
+               <item>51. Laudanum noſtri.</item>
+               <item>52. Sal volatile Oleoſum Cephalicum.</item>
+               <item>53. Sal Volat. Oleoſum Sto<g ref="char:EOLhyphen"/>machum.</item>
+               <item>54. Stypticum pro. Gonorrha.</item>
+               <item>55. Stypticum Pulvis pro. vol. Neribus.</item>
+               <item>56. Gutt. Stypticum pro. vol. Neribus.</item>
+               <item>57. Sal. Cathartici Amari.</item>
+               <item>58. Sal. Lenitivum noſt.</item>
+               <item>59. Sal. Mirabilis.</item>
+               <item>60. Sal. Solutivum.</item>
+               <item>61. Sal. Glauberi.</item>
+               <item>62. Sal. Tartari.</item>
+               <item>63. Sal. Armonci Volat.</item>
+               <item>64. Sal. Cor. Cer.</item>
+            </list>
+            <p>Cum Multis Alijs.</p>
+         </div>
+         <div type="colophon">
+            <p>Publiſhed from my Houſe at the two Blew twiſted Poſts at <hi>Horſley-down Fair-ſtreet,</hi> in <hi>South<g ref="char:EOLhyphen"/>wark,</hi> by <hi>John Spire.</hi>
+            </p>
+            <pb facs="tcp:35102:13"/>
+         </div>
+      </back>
+   </text>
+</TEI>
